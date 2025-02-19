@@ -1,2 +1,5 @@
-# CMCA-506---LAB-6
-lab 6 repo for the codes
+# CMCA-506-LAB-6
+
+## Folders:
+1. Division
+2. Codes - per person
