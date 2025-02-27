@@ -2,7 +2,7 @@
 ---------------------------------------------------------------
 ## Folders:
 1. Division of the whole project into 4 deliverables
-2. Codes - per person
+2. Deliverable 1 - codes per person
 
 
 ### Team members:
